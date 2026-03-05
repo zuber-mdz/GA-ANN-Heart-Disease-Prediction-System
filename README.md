@@ -1,2 +1,2 @@
 # GA-ANN-Heart-Disease-Prediction-System
-A Machine Learning based Heart Disease Prediction System using Genetic Algorithm and Artificial Neural Network with Flask Web Interface.
+A hybrid machine learning system that predicts heart disease using Genetic Algorithm for feature optimization and Artificial Neural Network for classification. The model analyzes clinical parameters and provides accurate prediction through a Flask based web interface.
